@@ -1,0 +1,7 @@
+
+class Printer:
+    
+    def __init__():
+        pass
+    def printer():
+        print("you suck")
